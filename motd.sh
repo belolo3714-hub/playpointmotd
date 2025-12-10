@@ -56,8 +56,8 @@ printf "  ${YELLOW}Users Logged :${RESET} %s\n" "$USERS"
 printf "  ${YELLOW}IP Address   :${RESET} %s\n" "$IP"
 printf "  ${YELLOW}Uptime       :${RESET} %s\n\n" "$UPTIME"
 
-echo -e "${CYAN}Need help? Support is always available: support@playpoint.xyz${RESET}"
-echo -e "Website: ${BLUE}playpoint.xyz${RESET}"
+echo -e "${CYAN}Need help? Support is always available: support@playpointbd.fun${RESET}"
+echo -e "Website: ${BLUE}playpointbd.fun${RESET}"
 echo -e "${GREEN}Quality Wise — No Compromise 😄${RESET}"
 
 EOF
